@@ -32,5 +32,5 @@ static const struct arg args[] = {
 //        {  battery_remaining, " ( %s )",      "BAT0" },
 	{  cpu_perc,          "  %s%%",      NULL },
 	{  ram_perc,          "  %s%%",      NULL },	
-        {  datetime,          " | %s","%F %T  " },
+        {  datetime,          " | %s","%F %T"},
 };
