@@ -1,0 +1,8 @@
+
+components/battery.o
+components/cpu.o
+components/datetime.o
+components/ram.o
+slstatus
+slstatus.o
+util.o
